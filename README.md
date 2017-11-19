@@ -1,4 +1,4 @@
-##go-verifier
+## go-verifier
 
 > go-verifier is small utility that allows you to calculate the MD5 and SHA1 hashes of one or more files in your system.
 
@@ -10,11 +10,11 @@ Flags:
   -hash string
         Specify hashtype, values: md5, sha1, sha256 (default "md5")
   -help
-        Show help information
+        Show this help information
   -nopath
         Without full path name
   -upper
         Get hash in uppercase
   -verify string
-        Read and verify the checksum file (default "<FILE>")
+        Read and verify the checksum file
 ```
